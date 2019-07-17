@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FeedAppTest</string>
+    <string name="no_internet_connection">Please check your internet connection.</string>
+
+</resources>
